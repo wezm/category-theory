@@ -3,7 +3,7 @@
 My solution to the challenges in the book, [Category Theory for Programmers],
 in Rust.
 
-See also colegues solutions:
+See also colleges solutions:
 
 * Jais' Solutions (coming soon)
 * [Jerome's Solutions](https://github.com/jeropaul/category-theory/)
